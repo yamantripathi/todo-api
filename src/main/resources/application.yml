@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: todoApi
+netty:
+  default:
+    allocator:
+      max-order: 3
